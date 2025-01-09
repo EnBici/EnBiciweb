@@ -30,7 +30,7 @@ export function Cuadradito(){
             </div>
             <div>
                 <Botonchingon texto = "Github" imagen = 'gitjab.png' lugar = "https://github.com/Enbici"></Botonchingon>
-                <Botonchingon texto = "Home" imagen='/home-icon.png' lugar = "/EnBiciweb/"></Botonchingon>
+                <Botonchingon texto = "Home" imagen='home-icon.png' lugar = "/EnBiciweb/"></Botonchingon>
                 <Botonchingon texto = "Dolar Value" imagen='dolar-icon.jpeg' lugar = "/EnBiciweb/Apidolar"></Botonchingon>
 
             </div>
