@@ -7,8 +7,8 @@ import Apidolarpage from '../pages/apidolar'
 function App() {
   return (
 
-    <Routes basename="/EnBiciweb">
-      <Route path='/' element={<Home></Home>}/>
+    <Routes>
+      <Route path='/EnBiciweb/' element={<Home></Home>}/>
       <Route path='/EnBiciweb/Apidolar' element={<Apidolarpage></Apidolarpage>}></Route>
     </Routes>
   )
